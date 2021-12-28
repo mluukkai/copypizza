@@ -1,9 +1,3 @@
-#command
-
-#if
-
-#template
-
 import random
 
 class Order:
